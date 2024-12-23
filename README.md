@@ -11,6 +11,7 @@
 ### Need improve
 
 - mobile can not size small the canvas
+- buttons no animation
 
 From [50projects50days](https://50projects50days.com).
 
